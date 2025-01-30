@@ -5,9 +5,9 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/mosweed/mosweed_shop_cms)](https://packagist.org/packages/mosweed/mosweed_shop_cms)
 [![License](https://img.shields.io/packagist/l/mosweed/mosweed_shop_cms)](https://packagist.org/packages/mosweed/mosweed_shop_cms)[![GitHub stars](https://img.shields.io/github/stars/mosweed/mosweed_shop_cms?style=social)](https://github.com/mosweed/mosweed_shop_cms/stargazers) 
 
-[![GitHub stars](https://img.shields.io/github/stars/mosweed/mosweed_shop_cms?style=social)](https://github.com/mosweed/mosweed_shop_cms/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/mosweed/mosweed_shop_cms?style=social)](https://github.com/mosweed/mosweed_shop_cms/network)
-[![GitHub issues](https://img.shields.io/github/issues/mosweed/mosweed_shop_cms)](https://github.com/mosweed/mosweed_shop_cms/issues)
+[![GitHub stars](https://img.shields.io/github/stars/mosweed/Mosweed_shop_cms?style=social)](https://github.com/mosweed/Mosweed_shop_cms/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/mosweed/Mosweed_shop_cms?style=social)](https://github.com/mosweed/Mosweed_shop_cms/network)
+[![GitHub issues](https://img.shields.io/github/issues/mosweed/Mosweed_shop_cms)](https://github.com/mosweed/Mosweed_shop_cms/issues)
 
 <!-- rebo -->
 
