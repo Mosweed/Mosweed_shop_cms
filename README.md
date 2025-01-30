@@ -9,12 +9,6 @@
 [![GitHub forks](https://img.shields.io/github/forks/mosweed/Mosweed_shop_cms?style=social)](https://github.com/mosweed/Mosweed_shop_cms/network)
 [![GitHub issues](https://img.shields.io/github/issues/mosweed/Mosweed_shop_cms)](https://github.com/mosweed/Mosweed_shop_cms/issues)
 
-<!-- rebo -->
-
-
-
-
-
 
 # Introduction
 

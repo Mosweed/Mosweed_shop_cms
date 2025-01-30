@@ -152,11 +152,11 @@ class InstallCMSCommand extends Command
             } else {
                 // Run the additional command only if migrations were successful
                 if ($this->confirm('Do you want to create an admin user?', true)) {
-                    $this->call('create:admin');
+                    $this->call('mosweed_shop_cms:create_admin');
                 }
 
                 if (confirm('do you want to install SMTP sitting ?', true)) {
-                    $this->call('smtp:sitting');
+                    $this->call('mosweed_shop_cms:smtp_sitting');
                 }
             }
 
