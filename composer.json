@@ -8,7 +8,7 @@
             "Mosweed\\mosweed_shop_cms\\": "src/"
         }
     },
-    "keywords": ["laravel", "auth" , "cms" , "livewire" , "block" , "editor" , "mosweed"],
+    "keywords": ["laravel", "auth" , "cms" , "livewire" , "shop" , "mosweed"],
 
     "authors": [
         {
