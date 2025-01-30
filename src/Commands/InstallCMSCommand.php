@@ -293,7 +293,7 @@ class InstallCMSCommand extends Command
 
             __DIR__ . '/../vite.config.js' => base_path('vite.config.js'),
             __DIR__ . '/../tailwind.config.js' => base_path('tailwind.config.js'),
-            __DIR__.'/../public/favicon.ico' => public_path('favicon.ico'),
+            __DIR__.'/../../public/favicon.ico' => public_path('favicon.ico'),
 
         ];
 
